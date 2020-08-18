@@ -1,0 +1,9 @@
+{
+"env":{
+    "MYQSL_USER":"root",
+    "MYQSL_PASSWORD":"123456aa",
+    "MYQSL_DATABASE":"projetotcc",
+    "MYQSL_HOST":"localhost",
+    "MYQSL_PORT":3306
+}
+}
